@@ -31,4 +31,3 @@
 - inView: The view to display the toast in.
 - bgColor: The background color of the toast. default is green
 - textColor: The text color of the toast. default is white
-
